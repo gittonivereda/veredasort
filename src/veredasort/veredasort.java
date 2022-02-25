@@ -34,8 +34,8 @@ public class veredasort {
 
     /**
      * Este metodo lo que hace es imprimir por pantalla
-     * @param El array que me va a imprimir
-     * @author alopez
+
+     * @author antonio lopez
      */
     public static void print(int a[]) {
         for (int i = 0; i < a.length; i++) {
